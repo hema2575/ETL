@@ -9,7 +9,7 @@
 
 ## Project Objective:
 
-# Data Extraction:
+### Data Extraction:
 
     The team extracted data from two data sources that includes the following URLs:
 
@@ -17,7 +17,7 @@
 
     (2) https://www.kaggle.com/lsind18/full-moon-calendar-1900-2050
 
-# Data Transformation:
+### Data Transformation:
 
     The following transformations were performed:
 
@@ -30,7 +30,7 @@
     7. Exported the data to a CSV file.
     8. Created filtered database using specific columns.
 
-# Data Loading:
+### Data Loading:
 
     Load: the final database, tables/collections, and why this was chosen.
     
@@ -41,7 +41,7 @@
       Sql DB: CrimeData 
       SQL Collection: violence_data
 
-# Inferences:
+### Inferences:
 
     What inferences should we draw?
     1. There is no correlation between gun related crimes and full moons.
